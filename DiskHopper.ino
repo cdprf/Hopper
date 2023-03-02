@@ -1,6 +1,7 @@
 /******************************************************************
   Created with PROGRAMINO IDE for Arduino - 01.04.2017 00:11:49
   Project     : Hopper Driver
+  Author      : Yunus Emre Yüce
   Libraries   : None
   Description : This project for controling 12v Motor, COLLECTIN SIGNAL FROM 12V INDUSTRIAL NPN SENSOR
 ******************************************************************/
